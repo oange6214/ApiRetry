@@ -8,5 +8,8 @@ obj/
 # NuGet packages
 packages/
 
+# tempfile
+.vs/
+
 # Debug
 *.log
